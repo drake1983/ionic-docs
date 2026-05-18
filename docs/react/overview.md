@@ -26,7 +26,7 @@ Ionic React works seamlessly with the React CLI and popular React tooling. You c
 
 ## Native Tooling
 
-[Capacitor](https://capacitorjs.com) is the official cross-platform runtime for Ionic Angular, enabling your apps to run natively on iOS, Android, and the web with a single codebase.
+[Capacitor](https://capacitorjs.com) is the official cross-platform runtime for Ionic React, enabling your apps to run natively on iOS, Android, and the web with a single codebase.
 
 ## Installation
 
